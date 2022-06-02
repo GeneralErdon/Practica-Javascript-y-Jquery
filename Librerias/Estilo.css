@@ -3,7 +3,7 @@
     margin-bottom: 10%;
 }
 body{
-    background-image: url(Imagenes/Eclipse.jpg);
+    background-image: url("Imagenes/Eclipse.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
