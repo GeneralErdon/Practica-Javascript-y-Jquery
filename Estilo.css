@@ -1,5 +1,5 @@
 body{
-    background-image: url("/Imagenes/Eclipse.jpg");
+    background-image: url("Imagenes/Eclipse.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
