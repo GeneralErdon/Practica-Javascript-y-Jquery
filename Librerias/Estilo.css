@@ -1,0 +1,32 @@
+.mg-form{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+body{
+    background-image: url(/Imagenes/Eclipse.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.footer{
+    text-align: center;
+}
+.car{
+    
+    background-color: bisque;
+}
+.i{
+    border-radius: 15px;
+    min-width: 2em;
+    min-height: 2em;
+    box-shadow: -1px 1px 25px red;
+}
+.ima{
+    border-radius: 20px;
+}
+
+label.error{
+    color:rgb(255, 0, 0)
+}
+input.error{
+    border: 3px solid red;
+}
