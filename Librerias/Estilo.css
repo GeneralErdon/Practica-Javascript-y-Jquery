@@ -2,11 +2,7 @@
     margin-top: 10%;
     margin-bottom: 10%;
 }
-body{
-    background-image: url("Imagenes/Eclipse.jpg");
-    background-size: cover;
-    background-attachment: fixed;
-}
+
 .footer{
     text-align: center;
 }
