@@ -1,3 +1,9 @@
+body{
+    background-image: url("/Imagenes/Eclipse.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .mg-form{
     margin-top: 10%;
     margin-bottom: 10%;
